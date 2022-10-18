@@ -35,13 +35,13 @@ p
 
 .top-cloud {
   position: absolute;
-  right: 20%;
+  right: 10%;
   top: 50px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 20%;
+  left: 10%;
   bottom: 300px;
 }
 
