@@ -1,2 +1,7 @@
 # resume
-This is a simple resume creation using html and css.
+## [Venkata Sai]
+
+- Proficient in HTML and CSS for web development.
+- Capable of creating visually appealing and functional web pages.
+- Familiar with modern web design principles and techniques.
+
